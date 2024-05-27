@@ -5,6 +5,7 @@ transactions. The methods implemented include Synthetic Minority Oversampling Te
 
 # Technologies Used
 Programming Languages: Python
+
 Libraries: scikit-learn, Keras, Pandas, NumPy
 Machine Learning Techniques: Supervised Learning, SMOTE for data balancing
 Tools: Jupyter Notebook, Git
